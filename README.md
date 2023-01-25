@@ -13,7 +13,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjungsk&show_icons=true&theme=dracula" />
 </a>
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjungsk&layout=compact&show_icons=true&theme=dracula" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjungsk&layout=compact&show_icons=true&theme=dracula" width="49%" />
 </a>
 
 <!--
