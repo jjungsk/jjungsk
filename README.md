@@ -10,7 +10,7 @@
 
 #### My GitHub
 <a href="">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjungsk&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjungsk&show_icons=true&theme=dracula" width="40%" />
 </a>
 <a href="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjungsk&layout=compact&show_icons=true&theme=dracula" width="45%" />
