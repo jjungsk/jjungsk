@@ -3,8 +3,9 @@
 
 #### Tech Stack
 
-##### - Front : HTML, CSS, JavaScript / Vue, React
-##### - Back : Java, Spring / Python
+##### - Front : HTML, CSS, JavaScript / <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+##### - Back : <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+, <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 ##### - DB : MySql
 
 
